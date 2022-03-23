@@ -7,16 +7,18 @@
 
 <div align="center">
   <a href="https://github.com/oramonviana">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=oramonviana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oramonviana&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oramonviana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oramonviana&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif">
+  <img align="center" alt="Ramon-RStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg">
+  <img align="center" alt="Ramon-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ramon-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Ramon-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Ramon-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Ramon-Scala" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
+  <img align="center" alt="Ramon-OpenCV" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"">
+  <img align="right"  alt="Ramon-pic" height="150" style="border-radius:100px;" src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif">
 </div>
   
   ##
