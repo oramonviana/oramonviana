@@ -17,8 +17,8 @@
   <img align="center" alt="Ramon-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Ramon-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Ramon-Scala" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
-  <img align="center" alt="Ramon-OpenCV" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"">
-  <img align="right"  alt="Ramon-pic" height="150" style="border-radius:100px;" src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif">
+  <img align="center" alt="Ramon-OpenCV" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+  <img align="right"  alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 </div>
   
   ##
